@@ -1,0 +1,9 @@
+[
+  {
+    "name": "ArcGIS Pro",
+    "description": "Research computing, storage, and software from the Digital Research Alliance of Canada.",
+    "availability": ["Free for Trent Users"],
+    "location": ["Personal Computer", "Trent Computers"],
+    "type": ["Geospatial", "Quantitative Analysis", "3D Modelling"]
+  }
+]
