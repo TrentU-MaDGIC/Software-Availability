@@ -5,5 +5,208 @@
     "availability": ["Free for Trent Users"],
     "location": ["Personal Computer", "Trent Computers"],
     "type": ["Geospatial", "Quantitative Analysis", "3D Modelling"]
+  },
+  {
+    "name": "ArcGIS Online",
+    "description": "Online map viewer and basic spatial analytics.",
+    "availability": ["Free for Trent Users"],
+    "location": ["Online"],
+    "type": ["Geospatial"]
+  },
+  {
+    "name": "ArcGIS Drone2Map",
+    "description": "Create mosaicked maps and generate 3D models from drone imagery.",
+    "availability": ["Free for Trent Users"],
+    "location": ["Personal Computer", "Trent Computers"],
+    "type": ["Geospatial", "Quantitative Analysis", "3D Modelling"]
+  },
+  {
+    "name": "ArcGIS Business Analyst",
+    "description": "Online map viewer with spatial economic and demographic data.",
+    "availability": ["Free for Trent Users"],
+    "location": ["Online"],
+    "type": ["Geospatial", "Data Source", "Quantitative Analysis"]
+  },
+  {
+    "name": "ArcGIS StoryMaps",
+    "description": "Web-based presentation software using slides or scrolling web pages.",
+    "availability": ["Free for Trent Users"],
+    "location": ["Online"],
+    "type": ["Presentation", "Website Creation"]
+  },
+  {
+    "name": "NVivo",
+    "description": "Analyze surveys, transcriptions, and other qualitative data.",
+    "availability": ["Location restricted"],
+    "location": ["Data Visualization Lab"],
+    "type": ["Qualitative Analysis"]
+  },
+  {
+    "name": "Taguette",
+    "description": "Qualitative analysis tool for coding and analyzing text.",
+    "availability": ["Free"],
+    "location": [],
+    "type": ["Qualitative Analysis"]
+  },
+  {
+    "name": "SPSS",
+    "description": "Advanced statistical software with a user-friendly interface.",
+    "availability": ["Location restricted"],
+    "location": ["Data Visualization Lab"],
+    "type": ["Statistics", "Quantitative Analysis"]
+  },
+  {
+    "name": "R / RStudio",
+    "description": "Coding-based statistical analysis environment with extensible packages.",
+    "availability": ["Free"],
+    "location": [],
+    "type": ["Coding", "Statistics", "Quantitative Analysis"]
+  },
+  {
+    "name": "Adobe Creative Cloud",
+    "description": "Creative software suite including Photoshop, Illustrator, and Premiere.",
+    "availability": ["Location restricted"],
+    "location": ["Data Visualization Lab", "Odette Critical Making Studio"],
+    "type": ["Design", "Visual Arts"]
+  },
+  {
+    "name": "AutoCAD",
+    "description": "Computer-aided design software for drafting and technical drawings.",
+    "availability": ["Free for Trent Users"],
+    "location": ["Personal Computer", "Trent Computers"],
+    "type": ["Design", "3D Modelling"]
+  },
+  {
+    "name": "AutoDesk ReCap",
+    "description": "Creates 3D models from image inputs.",
+    "availability": ["Free for Trent Users"],
+    "location": ["Personal Computer", "Trent Computers"],
+    "type": ["Design", "3D Modelling"]
+  },
+  {
+    "name": "Unity",
+    "description": "Game engine for 2D and 3D model and experience development.",
+    "availability": ["Free"],
+    "location": [],
+    "type": ["Design", "3D Modelling"]
+  },
+  {
+    "name": "Blender",
+    "description": "Open-source 2D/3D modeling and animation software.",
+    "availability": ["Free"],
+    "location": [],
+    "type": ["Design", "3D Modelling"]
+  },
+  {
+    "name": "Meshlab",
+    "description": "3D mesh processing and editing software.",
+    "availability": ["Free"],
+    "location": [],
+    "type": ["3D Modelling"]
+  },
+  {
+    "name": "Oculus",
+    "description": "3D visualization software for Oculus headsets.",
+    "availability": ["Free"],
+    "location": [],
+    "type": ["3D Modelling"]
+  },
+  {
+    "name": "Beyond 20/20",
+    "description": "Statistics Canada software for multidimensional data analysis.",
+    "availability": ["Free"],
+    "location": [],
+    "type": ["Statistics", "Quantitative Analysis"]
+  },
+  {
+    "name": "EXScan",
+    "description": "3D scanning software for the EinScan scanner.",
+    "availability": ["Free"],
+    "location": [],
+    "type": ["3D Modelling"]
+  },
+  {
+    "name": "Microsoft Visual Studio",
+    "description": "Integrated development environment supporting multiple languages.",
+    "availability": ["Free"],
+    "location": [],
+    "type": ["Coding"]
+  },
+  {
+    "name": "Microsoft Office",
+    "description": "",
+    "availability": ["Free for Trent Users"],
+    "location": ["Personal Computer", "Trent Computers"],
+    "type": []
+  },
+  {
+    "name": "Microsoft SharePoint",
+    "description": "",
+    "availability": ["Free for Trent Users"],
+    "location": ["Online"],
+    "type": ["Website Creation", "File Management"]
+  },
+  {
+    "name": "Microsoft OneDrive",
+    "description": "",
+    "availability": ["Free for Trent Users"],
+    "location": ["Online", "Personal Computer", "Trent Computers"],
+    "type": ["File Management"]
+  },
+  {
+    "name": "Microsoft Forms",
+    "description": "",
+    "availability": ["Free for Trent Users"],
+    "location": ["Online"],
+    "type": ["Survey"]
+  },
+  {
+    "name": "Microsoft Teams",
+    "description": "",
+    "availability": ["Free for Trent Users"],
+    "location": ["Personal Computer", "Trent Computers"],
+    "type": ["Video Conferencing", "Instant Messaging"]
+  },
+  {
+    "name": "REDCap",
+    "description": "Survey software suitable for sensitive and complex data collection.",
+    "availability": ["Free for Trent Users"],
+    "location": ["Online"],
+    "type": ["Survey"]
+  },
+  {
+    "name": "QGIS",
+    "description": "",
+    "availability": ["Free"],
+    "location": [],
+    "type": ["Geospatial", "Quantitative Analysis", "3D Modelling"]
+  },
+  {
+    "name": "Zoom",
+    "description": "",
+    "availability": ["Free for Trent Users"],
+    "location": ["Online"],
+    "type": ["Video Conferencing"]
+  },
+  {
+    "name": "Mendeley",
+    "description": "",
+    "availability": ["Free"],
+    "location": ["Online", "Personal Computer"],
+    "type": ["Citation Management"]
+  },
+  {
+    "name": "Zotero",
+    "description": "",
+    "availability": ["Free"],
+    "location": ["Online", "Personal Computer"],
+    "type": ["Citation Management"]
+  },
+  {
+    "name": "Qualtrics",
+    "description": "",
+    "availability": ["Free for Trent Users"],
+    "location": ["Online"],
+    "type": ["Survey"]
   }
 ]
