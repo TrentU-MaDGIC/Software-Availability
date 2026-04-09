@@ -1,0 +1,18 @@
+[
+  {
+    "id": "availability",
+    "question": "What is the availability of this software?",
+    "options": ["Free for Trent Users", "Location restricted", "Free"]
+  },
+  {
+    "id": "location",
+    "question": "Where can you access this software?",
+    "options": ["Data Visualization Lab", "Online", "Odette Critical Making Studio", "Personal Computer", "Trent Computers"]
+  },
+  {
+    "id": "type",
+    "question": "What type of analysis are you conducting?",
+    "options": ["Geospatial", "Quantitative Analysis", "Qualitative Analysis", "3D Modelling", "Data Source", "Website Creation", "Presentation",
+      "Statistics", "Design", "Visual Arts", "Coding", "File Management", "Survey", "Video Conferencing", "Instant Messaging", "Citation Management"]
+  }
+]
